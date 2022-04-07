@@ -1,0 +1,18 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+a {
+    font-size: 48;
+}
+
+
+h1 {
+    font-size:72;
+}
+body {background-color: coral;}
